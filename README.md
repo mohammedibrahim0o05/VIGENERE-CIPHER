@@ -3,7 +3,6 @@
 ### Name Mohammed Ibrahim MN 
 ### Roll No 212223100034
 
-<h3>EX. NO</h3> 1
 ## EX. NO: 4
  
 
